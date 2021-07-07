@@ -4,7 +4,7 @@
 <h3>Hoje estou estudando para me tornar um desenvolvedor full-stack</h3>
 <h4>Tecnologias que tenho conhecimento e venho estudando:</h4>
 <ul>
-<li>Front-End: HTML, CSS, JavaScript e Bootstrap</li>
+<li>Front-End: HTML, CSS, JavaScript React e Bootstrap</li>
 <li>Back-End: Node.js, Express e PHP</li>
 <li>Banco de dados: MySQL</li>
 <li>Design: Figma e Photoshop</li>
