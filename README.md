@@ -10,5 +10,8 @@
 <li>Design: Figma e Photoshop</li>
 </li>
 
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoni0o&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)]
+(https://github.com/Antoni0o)
+
 
 
