@@ -2,6 +2,7 @@
 
 <h2>Sempre fui muito interessado em tecnologia</h2>
 <h3>Hoje estou estudando para me tornar um desenvolvedor full-stack</h3>
+<hr/>
 <h4>Tecnologias que tenho conhecimento e venho estudando:</h4>
 <ul>
 <li>Front-End: HTML, CSS, JavaScript e React</li>
@@ -14,7 +15,7 @@ ____
 
 
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoni0o&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/Antoni0o)
-
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoni0o&theme=dark&hide=contribs,prs)
 
 
 
