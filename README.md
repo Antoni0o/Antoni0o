@@ -19,4 +19,4 @@
 <hr/>
 
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoni0o&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/Antoni0o)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoni0o&theme=dark&layout=compact)
+
