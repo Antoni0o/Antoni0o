@@ -10,9 +10,4 @@
   <img align="center" width="50" height="75" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" width="50" height="75" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>
-<hr/>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoni0o&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoni0o&theme=dark&layout=compact">
-</div>
 
