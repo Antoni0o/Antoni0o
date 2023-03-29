@@ -1,5 +1,5 @@
 <h1>Oi, sou o Antonio!</h1>
-<h3>Sempre fui muito interessado em tecnologia e hoje estou estudando para me tornar um desenvolvedor full-stack</h3>
+<h3>Sempre fui muito interessado em tecnologia e hoje estou estudando desenvolvimento full-stack</h3>
 <hr/>
 <h4>Tecnologias que uso e estudo:</h4>
 <div align="center" justify-content="space-around">
